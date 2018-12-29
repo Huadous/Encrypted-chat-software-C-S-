@@ -1,10 +1,3 @@
-//
-//  database.h
-//  chat
-//
-//  Created by 华宇 on 2018/11/30.
-//  Copyright © 2018 华宇. All rights reserved.
-//
 
 #ifndef database_h
 #define database_h

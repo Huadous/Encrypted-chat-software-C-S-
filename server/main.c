@@ -1,10 +1,4 @@
-//
-//  main.c
-//  chat
-//
-//  Created by 华宇 on 2018/11/29.
-//  Copyright © 2018 华宇. All rights reserved.
-//
+
 
 #include <stdio.h>
 #include <fcntl.h>
