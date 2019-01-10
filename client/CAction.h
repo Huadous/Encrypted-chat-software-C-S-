@@ -215,7 +215,7 @@ void sendFile(const char * filename, const char * ip) {
     struct hostent* host;
     struct sockaddr_in serv_addr;
     int sockfd;
-    if ((host = gethostbyname("ip")) == NULL) {
+    if ((host = gethostbyname(ip)) == NULL) {
         perror("gethostbyname");
         exit(1);
     }
